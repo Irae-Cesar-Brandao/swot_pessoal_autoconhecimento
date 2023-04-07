@@ -1,24 +1,21 @@
-# vscode_teclas_atalhos
-Orientações sobre como utilizar o VsCode com comandos utilizando teclas de atalhos rápidos do teclado. Dicas.
-Tenho observado muitas dúvidas de colegas sobre os atalhos e como executados dentro do Visual Studio Code (VsCODE).
-Então, achei importante triar alguns dos atalhos e disponibilizar, de forma a auxiliar ao colegas DEV´s.
-Abaixo, relaciono os atalhos de teclas do teclado para facilitar os comandos quando estiverem codando os seus códigos.
-Para tanto, deverá ter em mente que esses atalhos também podem ser customizados a critério de cada usuário.
+# ORIENTAÇÕES SOBRE SWOT PESSOAL 
+Orientações sobre como utilizar A ANÁLISE de SWOT  Dicas.
+A análise SWOT pessoal é uma adaptação da técnica frequentemente aplicada em empresas, produtos e processos para avaliar suas Forças (S), Fraquezas (W), Oportunidades (O) e Ameaças (T). (São eles, em inglês: Strengths, Weaknesses, Opportunities e Threats). 
 Temos de ter o cuidado ao executar os comandos e aferir se realmente que o comando dado aplicou o efeito pretendido.
-Está acessível a page em :  https://irae-cesar-brandao.github.io/vscode_teclas_atalhos/  
+Está acessível a page em :  https://irae-cesar-brandao.github.io/swot_pessoal_autoconhecimento/  
 
 Fonte de pesquisa: WEB
 
 
 REFERÊNCIAS
 
-GITHUB.(maykbrito/vscode_shortcuts.md). Atalhos VSCode. Disponível em: https://gist.github.com/maykbrito/b1fc8a1e9d920daf4bcf90839c234c23 . Acesso em 25-mar-2023.
+REFERÊNCIAS E INFORMAÇÕES
+- NUBE.  Como descobrir a minha profissão? Disponível em: <https://www.nube.com.br/ >. Acesso em 07-04-2023  
 
-LEARN.MICROSOFT. Atalhos de teclado no Visual Studio. Disponível em https://learn.microsoft.com/pt-br/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022 . Acesso em 26-mar-2023.
+- UNICADEMIA: O que é autoconhecimento e por que ele é tão importante? Disponível em <https://www.uniacademia.edu.br/blog/o-que-e-autoconhecimento#:~:text=O%20autoconhecimento%2C%20como%20a%20pr%C3%B3pria,os%20sentimentos%20vivenciados%20por%20ela> Acesso em 07-04-2023.
 
-LEARN.MICROSOFT. Identificar e personalizar atalhos de teclado no Visual Studio. Disponível em https://learn.microsoft.com/pt-br/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022 . Acesso em 26-mar-2023.
+-ROCKCONTENT. Aprenda o que é análise SWOT, ou análise FOFA, e saiba como fazer uma análise estratégica do seu negócio.  Disponível em <https://rockcontent.com/br/blog/como-fazer-uma-analise-swot/> . Acesso em 07-04-2023.
 
-VISUAL STUDIO CODE. Keyboard Shortcuts Window. Disponível em https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf . Acesso em 20-mar-2023
 
 
 Elaborado por:  © Prof.  Iraê C. Brandão   Linkedin : https://www.linkedin.com/in/irae-cesar-brandao-a2112b69/
