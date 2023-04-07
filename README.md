@@ -2,7 +2,7 @@
 Orientações sobre como utilizar A ANÁLISE de SWOT  Dicas.
 A análise SWOT pessoal é uma adaptação da técnica frequentemente aplicada em empresas, produtos e processos para avaliar suas Forças (S), Fraquezas (W), Oportunidades (O) e Ameaças (T). (São eles, em inglês: Strengths, Weaknesses, Opportunities e Threats). 
 Temos de ter o cuidado ao executar os comandos e aferir se realmente que o comando dado aplicou o efeito pretendido.
-Está acessível a page em :  https://irae-cesar-brandao.github.io/swot_pessoal_autoconhecimento/  
+Está acessível a page em :  https://irae-cesar-brandao.github.io/swot_pessoal_autoconhecimento/
 
 Fonte de pesquisa: WEB
 
